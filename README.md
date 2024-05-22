@@ -1,5 +1,6 @@
 # HR-Analytics
 
+
 ## Introduction
 Employee attrition is one of the great concerns that companies are struggling to address today and this situation shall continue to be there for one simple reason: the companies don’t really understand why their employees are leaving in the first place. Rather than companies jumping to well-intentioned quick fixes, they may take time to investigate the true causes of attrition. If companies make a concerted effort to better understand why employees are leaving and take meaningful action to retain the emplyees, they can gain an edge in the race to attract, develop, and retain the talent.
 
